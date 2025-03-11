@@ -35,7 +35,7 @@ class DescriptionScreen extends StatelessWidget {
                 child: Text(
                   '''Profile:
                   Name: Eyobel Mebratie
-                  Group Number: 6
+                  Group Number: 11
                   Fav Food: Pizza''',
                   style: TextStyle(fontSize: 18),
                 ),
